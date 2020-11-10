@@ -316,4 +316,4 @@ elif openapp == "no":
 
             if where1 == "5" or darkdankcorridor1 == 1:
                 print("You went down the dark dank corridor?")
-                print("### ~~~ [ { ZE END IS HERE } ] ~~~ ###")
+                
